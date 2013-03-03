@@ -38,3 +38,5 @@ gem 'jquery-rails'
 # gem 'debugger'
 gem 'spree'
 gem 'spree_auth_devise'
+
+gem 'pg'
