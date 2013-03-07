@@ -40,5 +40,4 @@ gem 'spree'
 gem 'spree_gateway', :git => 'git://github.com/spree/spree_gateway.git', :branch => "1-3-stable"
 gem 'spree_auth_devise'
 gem 'spree_self_delivery', :git => 'git://github.com/secoint/spree_self_delivery.git'
-
 gem 'pg'
