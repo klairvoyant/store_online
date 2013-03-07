@@ -90,6 +90,7 @@
     <orderEntry type="library" scope="PROVIDED" name="spree_gateway (v1.2.0.rc2@7f28e9, RVM: ruby-1.9.3-p362 [jan2013]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_promo (v1.3.2, RVM: ruby-1.9.3-p362 [jan2013]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spree_sample (v1.3.2, RVM: ruby-1.9.3-p362 [jan2013]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spree_self_delivery (v1.3.0@d56bfe, RVM: ruby-1.9.3-p362 [jan2013]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.2.2, RVM: ruby-1.9.3-p362 [jan2013]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="state_machine (v1.1.2, RVM: ruby-1.9.3-p362 [jan2013]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="stringex (v1.3.3, RVM: ruby-1.9.3-p362 [jan2013]) [gem]" level="application" />
